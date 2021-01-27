@@ -6,6 +6,7 @@
    :name: _dbs
    :hidden:
 
+   era_install/era_install
 ..   labsetup/labsetup
 
 .. toctree::
