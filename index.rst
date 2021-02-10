@@ -1,4 +1,4 @@
-.. title:: Databases: Era Combo Bootcamp
+.. title:: PACE Era Bootcamp
 
 .. toctree::
    :maxdepth: 2
